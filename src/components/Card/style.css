@@ -1,0 +1,8 @@
+.Card {
+    background: gray;
+    border-radius: 5px 0 5px 0;
+}
+
+.Card > h3 {
+    font-family: "Comic Sans MS"
+}
